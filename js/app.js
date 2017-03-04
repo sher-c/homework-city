@@ -24,7 +24,7 @@ else if (city === "austin" || city === "atx") {
 else if (city === "sydney" || city === "syd") {
             $('body').attr('class', 'sy')}
 });
-
+})
 
 // switch (city) {
 //   case 'new york':
@@ -54,7 +54,7 @@ else if (city === "sydney" || city === "syd") {
 //
 // }
 
-})
+
 
 
 
